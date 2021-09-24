@@ -4,8 +4,8 @@ import axios from "axios";
 import router from "../router";
 import Swal from "sweetalert2";
 
-const baseUrl = "http://localhost:3000"
-// const baseUrl = "https://spartan-id.herokuapp.com"
+// const baseUrl = "http://localhost:3000"
+const baseUrl = "https://spartan-id.herokuapp.com"
 
 Vue.use(Vuex);
 
